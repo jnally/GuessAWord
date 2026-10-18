@@ -189,7 +189,7 @@
             Controls.Add(grpGuess);
             Controls.Add(grpHidden);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Guess A Word";
             Load += Form1_Load;
             grpHidden.ResumeLayout(false);
             grpHidden.PerformLayout();
